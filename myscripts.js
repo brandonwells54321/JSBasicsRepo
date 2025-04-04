@@ -1,4 +1,4 @@
-var button = document.querySelecter('button');
+var button = document.querySelector('button');
 var box = document.getElementById('changeMe');
 
 function changeColor(){
